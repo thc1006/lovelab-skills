@@ -17,6 +17,12 @@ transcripts to identify the Four Horsemen and repair attempts.
 > has strong clinical utility for pattern recognition, but should not be used to predict
 > relationship outcomes. See: Heyman (2001), Kim et al. (2007) for methodological caveats.
 > If in crisis: Taiwan 1925/1995/1980 | International: findahelpline.com
+>
+> **Research gap note:** No formal Gottman effectiveness studies have been conducted with
+> Chinese-speaking populations, and only 2 EFT outcome studies exist. This is a research
+> gap, not evidence of inapplicability. Young urban Chinese-speaking couples (especially
+> post-1995 generation in Taiwan) actively adopt these frameworks through translated media.
+> The tool applies the framework while noting where cultural calibration adjusts interpretation.
 
 ## The Four Horsemen — Detection Rules
 

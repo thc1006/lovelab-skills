@@ -56,6 +56,26 @@ minimizes, disengages).
 - `utterance_length_ratio = avg_words(pursuer) / avg_words(withdrawer)` — >2.0 suggests strong asymmetry
 - `topic_reintroduction_rate` — How often each partner brings back unresolved topics
 
+### Guilt-Compensation Cycle
+
+A recurring pattern where:
+1. Partner A breaks a commitment or causes hurt
+2. Partner A feels guilty and overcompensates (extra affection, gifts, promises)
+3. Partner B initially accepts but recognizes the pattern
+4. Partner A returns to baseline behavior
+5. Cycle repeats
+
+**Detection markers:**
+- Explicit pattern recognition by the hurt partner: "不要因為你愧疚後來對我好因為你每次都是這樣"
+- Oscillation between neglect and intense affection
+- Promises of change that repeat: "下次我會..."、"我以後不會再..."
+- The compensating partner's guilt language: "對不起"、"我真的很抱歉"、"guilty"
+
+**Scoring:**
+- If the hurt partner explicitly names the cycle: High confidence detection
+- If 2+ instances of commitment-break -> compensation -> baseline in one transcript: Flag as pattern
+- Note in report: This cycle often masks the underlying issue (usually time management, priority allocation, or boundary clarity). The compensation temporarily soothes but does not resolve the root cause.
+
 ### 2. Power Asymmetry Index (0-10)
 
 Power imbalance in communication — NOT about who is "right" but about structural
@@ -85,12 +105,63 @@ When one partner simultaneously holds a mentor/advisor role:
 - Flag dependency language: "我就會越來越依賴你"
 - This is a structural issue, not a character flaw
 
+### Mentor-Partner Dual Role Indicators
+
+Detect when one partner occupies both romantic and advisory roles simultaneously:
+
+**Mentor-role markers (from the mentor-partner):**
+- Framing suggestions as guidance: "I think you should...", "Let me tell you..."
+- Referencing greater experience: "Because I've seen more...", "From my experience..."
+- Offering life direction advice unprompted
+- Chinese: "我跟你講"、"你應該要..."、"我覺得你可以..."
+
+**Dependency markers (from the dependent partner):**
+- Explicitly naming the dual role: "你還是必須有一點點是在我心裡是個 mentor"
+- Self-diminishing comparisons: "我插不上話"、"我們好像不是同一個 level 的"
+- Fear of the mentor's influence: "power 很大然後我就會害怕"
+- Paradox expression: wanting the mentor role but fearing dependency: "我就會越來越依賴你——那就不要了"
+- Intellectual gap anxiety: "搞不好我可能一輩子大概只有這個愛的思考可以贏過你"
+
+**Scoring:**
+- If 3+ mentor-role markers AND 3+ dependency markers detected: Flag as "mentor-partner dual role present"
+- Note: This pattern is NOT inherently pathological. It becomes concerning when the dependent partner expresses fear, self-diminishment, or loss of autonomy.
+- Cultural note: In Chinese-speaking couples, age/experience-based advisory roles are more culturally normalized. Flag only when the dependent partner explicitly expresses distress about the dynamic.
+
 **Scoring:**
 - 0-2: Balanced, mutual influence
 - 3-4: Mild asymmetry, generally functional
 - 5-6: Notable asymmetry, may affect felt safety
 - 7-8: Significant imbalance, professional guidance recommended
 - 9-10: Severe imbalance, potential for harm
+
+### Resource Dependency Discomfort
+
+When romantic feelings intensify, the lower-resource partner may paradoxically become MORE reluctant to accept help.
+
+**Markers:**
+- "越愛你我會越沒有辦法（使用你的資源）"
+- "我不要靠你"、"我要有自己的事業"
+- Refusing gifts or help that was previously accepted
+- Expressing desire for independence specifically tied to romantic feelings
+
+**Cultural note:** In Chinese-speaking contexts, resource balance between partners carries significant cultural weight. The concept of "嫁對人" (marrying well) coexists with modern expectations of personal achievement. Young women in particular may resist appearing dependent even when the partner freely offers support.
+
+### Authenticity Concern Detection
+
+One partner expresses concern that the other is not being genuine or authentic in the relationship.
+
+**Markers:**
+- Mask language: "面具"、"poker face"、"撲克臉"、"不是真正的你"
+- Medication awareness: recognizing behavioral changes due to medication
+- Performance detection: "你好像在演"、"你好像很客套"
+- Longing for the "real" version: "我想看到真正的你"
+
+**Context note:** This pattern often intersects with:
+- Medication effects (SSRIs, anxiolytics flattening affect)
+- Social performance (being different with friends vs. partner)
+- Cultural face-saving behavior
+
+**Do not pathologize.** Frame as: "Partner B expressed a desire to connect with Partner A's authentic emotional state. This suggests emotional intimacy is valued but felt to be inconsistent."
 
 ### 3. Pronoun Analysis
 

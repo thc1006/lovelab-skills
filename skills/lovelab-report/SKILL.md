@@ -124,9 +124,7 @@ that might be recurring based on the content.]
 - Should-statement cultural calibration
 - [Any specific cultural factors relevant to this transcript]
 
-**Research gap disclosure:** The Gottman Method and EFT have limited validation
-specifically with Chinese couples. Interpretations should be held lightly and
-combined with culturally-specific understanding.
+**Research gap disclosure:** No formal Gottman effectiveness studies have been conducted with Chinese-speaking populations, and only 2 EFT outcome studies exist (despite 1,400+ EFT-trained therapists in Taiwan alone). This is a research gap, not evidence of inapplicability. Young urban Chinese-speaking couples (especially post-1995 generation in Taiwan) actively adopt these frameworks through translated media (e.g., 《讓愛延續的七個方法》), podcasts, and social media. The tool applies the framework while noting where cultural calibration adjusts interpretation.
 
 ---
 

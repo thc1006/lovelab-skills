@@ -29,6 +29,8 @@ structured multi-dimensional analysis.
 - Diagnose mental health conditions
 - Replace professional couples therapy
 
+**Research gap note:** No formal Gottman effectiveness studies have been conducted with Chinese-speaking populations, and only 2 EFT outcome studies exist (despite 1,400+ EFT-trained therapists in Taiwan). This is a research gap, not evidence of inapplicability. Young urban Chinese-speaking couples (especially post-1995 generation in Taiwan) actively adopt these frameworks through translated media. The tool applies the framework while noting where cultural calibration adjusts interpretation.
+
 ## Analysis Workflow
 
 ### Step 1: Pre-processing

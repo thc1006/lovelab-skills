@@ -34,6 +34,7 @@ and avoidance as continuous spectrums).
 - Most adults show blended/undifferentiated attachment profiles (Current Psychology, 2025)
 - Attachment can shift with relationship quality and life events
 - Dimensional model has stronger empirical support than categorical model
+- No formal Gottman effectiveness studies have been conducted with Chinese-speaking populations, and only 2 EFT outcome studies exist (despite 1,400+ EFT-trained therapists in Taiwan). This is a research gap, not evidence of inapplicability. Young urban Chinese-speaking couples (especially post-1995 generation in Taiwan) actively adopt these frameworks through translated media. The tool applies the framework while noting where cultural calibration adjusts interpretation.
 
 ## Anxiety Dimension Markers (0-10)
 
@@ -51,6 +52,32 @@ Score each speaker based on frequency and intensity of these markers:
 | **Self-worth contingency** | Worth tied to partner's response | "我也許就只是一個對象而已不一定要是我" |
 | **Emotional flooding** | Overwhelming emotional expression in conflict | Extended emotional monologues, rapid escalation |
 | **Preoccupation** | Difficulty focusing on other topics | Repeatedly returning to relationship worry |
+
+### Replaceability Fear (Anxiety Sub-type)
+
+A specific form of attachment anxiety where the partner fears they are interchangeable, not uniquely valued.
+
+**Markers:**
+- "我也許就只是一個對象而已不一定要是我"
+- "你想要愛情...我剛好是一個人選"
+- Comparing self unfavorably to partner's friends or other potential partners
+- Questioning whether the partner's affection is for them specifically or for "having a partner" generically
+- "你是不是覺得我好講話所以就隨便對我"
+
+**Scoring:** +1.5 anxiety per instance. If 2+ instances detected, flag as "replaceability fear present" in the attachment section.
+
+**Reframe suggestion:** "Your partner chose you, and continues to choose you. The fear that you're replaceable often comes from comparing your inner experience (with all its doubts) to other people's outer presentation."
+
+### Protest Behavior Severity Scale
+
+| Level | Example | Scoring |
+|-------|---------|---------|
+| 1 - Mild | Expressing hurt, withdrawing briefly | +0.5 anxiety |
+| 2 - Moderate | Threatening relationship downgrade: "不如就當你的朋友就好了" | +1.5 anxiety |
+| 3 - Severe | Suggesting separation: "我們可以分開一陣子" | +2.0 anxiety |
+| 4 - Crisis | Self-harm mention in relational context | Trigger crisis protocol |
+
+Note: Level 2 (relationship downgrade threat) is extremely common in young Chinese-speaking couples as a protest strategy. It often does not reflect genuine intent to end the relationship. Cultural calibration: do not over-weight this marker in Chinese-speaking contexts, but do flag it as a protest behavior.
 
 ### Low Anxiety Indicators (each instance -0.5 to -1.0)
 
